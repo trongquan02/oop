@@ -7,7 +7,7 @@ public class Movie implements Comparable<Movie> {
 
     @Override
     public int compareTo(Movie other) {
-        int diff = this.getYear() - other.getYear();
+        int diff =  this.getYear() - other.getYear();
         if (diff == 0) {
             return 0;
         } else if (diff < 0) {

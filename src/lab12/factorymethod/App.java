@@ -4,8 +4,15 @@ public class App {
     private static Dialog dialog;
 
     public static void main(String[] args) {
-        configure();
-        runBusinessLogic();
+//        configure();
+//        runBusinessLogic();
+        Dialog dialog1;
+        String dialog = "html";
+        if (dialog.equals("html")) {
+            HtmlDialog a = new HtmlDialog();
+            a.renderWindows();
+        }
+
     }
 
     static void configure() {
