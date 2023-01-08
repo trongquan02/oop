@@ -11,7 +11,7 @@
 Môn học : Các Thành phần phần mềm.
 
 
-Giảng viên: Hà.QT
+Giảng viên: Quản Thái Hà
 
 
 
